@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÛåÅøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ÿ´®±şÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¼Øûğşÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¼§Œ­
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(–×”åıÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(æÏîÆşÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ïñ³¢
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8õï¸Ûş0
+Q	java:S1259"<This block of commented-out lines of code should be removed.(©šÇ¥
+O
+java:S1144"4Remove this unused private "transposeMatrix" method.(âïù¶şÿÿÿÿ

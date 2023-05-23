@@ -1,0 +1,18 @@
+
+2
+java:S16439"Use a StringBuilder instead.(ßâœ¡
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ë—
+P	java:S125"<This block of commented-out lines of code should be removed.(ÍÇæL
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œáòûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U	java:S106="9Replace this use of System.out or System.err by a logger.(·ñË8Ìùœ¢ÿ0
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8êº¢ÿ0
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ë¿Ÿ¢ÿ0
+L
+java:S1144""1Remove this unused private "binarySearch" method.(ÎÍíòüÿÿÿÿ
+S
+java:S11444"=Remove this unused private "convertDecimaltoBinanary" method.(ƒã»
+V
+java:S1144A";Remove this unused private "convertBinaryToDecimal" method.(ç¢µİúÿÿÿÿ
+N
+java:S1144L"3Remove this unused private "findPowerOfTwo" method.(¾¨©›øÿÿÿÿ

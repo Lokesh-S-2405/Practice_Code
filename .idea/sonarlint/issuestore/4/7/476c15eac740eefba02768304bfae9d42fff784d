@@ -1,0 +1,32 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ë—
+U
+java:S1854":Remove this useless assignment to local variable "target".(è”¢öÿÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "arr".(ìÃ¼ü
+>
+java:S1481"(Remove this unused "arr" local variable.(ìÃ¼ü
+F
+java:S1481"+Remove this unused "target" local variable.(è”¢öÿÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(Ïè’‰ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ¯¯ùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(«‡ô€ûÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ
+E
+java:S1197C"*Move the array designators [] to the type.(éŠ˜Üþÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(×Æáî
+T	java:S106"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(×Æáî
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(”ùŸ»
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(áœèþûÿÿÿÿ
+F
+java:S1144'"0Remove this unused private "findNoOfBit" method.(Í²»¦
+H
+java:S1144^"2Remove this unused private "selectionSort" method.(ÍÜƒ¸
+H
+java:S1144w"2Remove this unused private "insertionSort" method.(çô½¼
+F
+java:S1144Š"/Remove this unused private "bubbleSort" method.(Òßú
+M
+java:S1144"1Remove this unused private "linearSearch" method.(©êÊ×ÿÿÿÿÿ

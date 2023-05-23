@@ -1,0 +1,8 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "valid".(Éáë¯
+@
+java:S1481"*Remove this unused "valid" local variable.(Éáë¯
+V	java:S125"<This block of commented-out lines of code should be removed.(Ì©Óùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Î¦º÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ

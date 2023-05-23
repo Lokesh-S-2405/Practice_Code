@@ -1,0 +1,30 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ
+>
+java:S1643"Use a StringBuilder instead.(Ê¬ˆ†ÿÿÿÿÿ8¦ÃŞ€1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÛåÅøÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ
+[
+java:S1854"9Remove this useless assignment to local variable "chars".(”È–’ûÿÿÿÿ8æ´ŒŞ€1
+V
+java:S1854
+";Remove this useless assignment to local variable "string2".(ï¶˜Ïúÿÿÿÿ
+G
+java:S1481
+",Remove this unused "string2" local variable.(ï¶˜Ïúÿÿÿÿ
+L
+java:S1481"*Remove this unused "chars" local variable.(”È–’ûÿÿÿÿ8æ´ŒŞ€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8îœŞ€1
+V	java:S125"<This block of commented-out lines of code should be removed.(¡şï±ùÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(×€Ûµøÿÿÿÿ
+O
+java:S6213(":Rename this variable to not match a restricted identifier.(Â–Ÿ5
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8µÃŞ€1
+I
+java:S1144".Remove this unused private "isAnagram" method.(¯”áÿÿÿÿÿ

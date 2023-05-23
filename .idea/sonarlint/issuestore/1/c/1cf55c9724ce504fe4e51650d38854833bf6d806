@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÈ£‹
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅŠ“àÿÿÿÿÿ8Ñø¸†€1
+I
+java:S1948!"'Make "latch" transient or serializable.(şŞŞûÿÿÿÿ8Ñø¸†€1
+F
+java:S1948"")Make "barrier" transient or serializable.(ßëÆ8Ñø¸†€1
+{
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8áø¸†€1
